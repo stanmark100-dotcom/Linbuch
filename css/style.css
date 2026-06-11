@@ -3759,6 +3759,11 @@ justify-items: center;
   padding-bottom: 90px;
 }
 
+.vessel{
+  width: 300px;
+  height: 200px;
+}
+
 @media (max-width: 991px) {
   .services-section {
     padding-bottom: 60px;
