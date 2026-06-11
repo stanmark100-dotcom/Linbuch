@@ -3175,11 +3175,14 @@ a:focus {
 }
 
 .hero-slider-s1 .slide-caption .slide-title {
-  font-size: 42px;
-  font-size: 2.625rem;
+  font-size: 2.2rem;
   color: #fff;
   line-height: 1.23em;
   margin: 25px 0 20px;
+}
+
+.hero-slider-s1 .slide-caption .trending1 {
+ font-size: 1.8rem;
 }
 
 @media (max-width: 991px) {
